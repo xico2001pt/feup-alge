@@ -1,4 +1,4 @@
-# FEUP - MDIS
+# FEUP - ALGE
 
 ## Álgebra | MIEIC | 1º Ano | 1º Semestre
 
